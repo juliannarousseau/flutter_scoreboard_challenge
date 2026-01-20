@@ -1,7 +1,6 @@
 # 📱 **Flutter Clean Architecture Challenge**  
 ## Household Tasks Scoreboard App
 
-
 ### 📌 **Context**
 
 This project simulates a real-world technical interview challenge inspired by common mobile/frontend exercises.
@@ -88,7 +87,6 @@ The solution prioritizes:
 ## 🏗️ **Architecture Overview**
 
 ```
-
 presentation
 └── cubit
 └── states
@@ -104,7 +102,6 @@ data
 └── datasources
 └── models
 └── repository implementations
-
 ```
 
 **Key principle:**
